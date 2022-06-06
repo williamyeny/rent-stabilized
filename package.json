@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "convert": "ts-node convert-pdf-to-json.ts",
-    "clean": "ts-node clean-json.ts"
+    "scrape": "ts-node scrape-raw-pdf.ts"
   },
   "author": "",
   "license": "ISC",
